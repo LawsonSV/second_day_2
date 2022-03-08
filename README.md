@@ -1,1 +1,1 @@
-# second_day_example
+# second_day_repo
